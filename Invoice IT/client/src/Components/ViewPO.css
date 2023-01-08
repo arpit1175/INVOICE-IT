@@ -1,0 +1,46 @@
+.leftright{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 100%;
+}
+
+.right{
+flex: 1;
+}
+
+.left{
+    flex: 1;
+}
+
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons{
+    margin-left: 13px;
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left h3{
+font-size:18px;
+margin-top: 20px;
+
+}
+
+.right h3{
+
+    font-size: 18px;
+    margin-top: 20px;
+
+}
+
+.home_print{
+    display: flex;
+    justify-content: space-between;
+}
